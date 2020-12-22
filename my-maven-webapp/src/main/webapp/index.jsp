@@ -8,6 +8,6 @@
 </head>
 <body>
 This is My Maven Project
-new build
+new build new build
 </body>
 </html>
